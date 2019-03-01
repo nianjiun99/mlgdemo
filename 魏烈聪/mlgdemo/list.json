@@ -1,0 +1,103 @@
+{
+	"list1":{
+		"name":"列表",
+		"list":[
+		{
+			"src":"l1.jpg",
+			"id":"shop1",
+			"jianjie1":"明星单品 帝皇原蜜 专柜1120元",
+			"jianjie2":"Guerlain 娇兰 新黄金帝皇蜂姿复原蜜",
+			"price":"￥1099"
+			
+		},
+		{
+			"src":"l4.jpg",
+			"id":"shop2",
+			"jianjie1":"爆款明星熬夜霜 专柜260元",
+			"jianjie2":"Guerlain 娇兰 保湿滋润熬夜霜/深夜焕肤乳",
+			"price":"￥255"
+			
+		},
+			{
+			"src":"l5.jpg",
+			"id":"shop3",
+			"jianjie1":"27元/袋 20袋包邮装",
+			"jianjie2":"PITTA 防花粉灰尘过敏抗菌口罩 黑灰色 3枚*20袋",
+			"price":"￥69"
+			
+		},
+			{
+			"src":"l2.jpg",
+			"id":"shop4",
+			"jianjie1":"200元/瓶 24瓶包邮装",
+			"jianjie2":"资生堂安热沙ANESSA安耐晒 小金瓶防晒霜防水2018新版",
+			"price":"￥5400"
+			
+		},
+			{
+			"src":"l3.jpg",
+			"id":"shop5",
+			"jianjie1":"88元/瓶 2瓶包邮装",
+			"jianjie2":"澳洲Bio Island 儿童液体乳钙软胶囊",
+			"price":"￥189"
+			
+		},
+		{
+			"src":"l1.jpg",
+			"id":"shop6",
+			"jianjie1":"明星单品 帝皇原蜜 专柜1120元",
+			"jianjie2":"Guerlain 娇兰 新黄金帝皇蜂姿复原蜜",
+			"price":"￥1099"
+			
+		},
+		{
+			"src":"l2.jpg",
+			"id":"shop7",
+			"jianjie1":"200元/瓶 24瓶包邮装",
+			"jianjie2":"资生堂安热沙ANESSA安耐晒 小金瓶防晒霜防水2018新版",
+			"price":"￥5400"
+			
+		},
+		{
+			"src":"l4.jpg",
+			"id":"shop8",
+			"jianjie1":"爆款明星熬夜霜 专柜260元",
+			"jianjie2":"Guerlain 娇兰 保湿滋润熬夜霜/深夜焕肤乳",
+			"price":"￥255"
+			
+		},
+		{
+			"src":"l2.jpg",
+			"id":"shop9",
+			"jianjie1":"200元/瓶 24瓶包邮装",
+			"jianjie2":"资生堂安热沙ANESSA安耐晒 小金瓶防晒霜防水2018新版",
+			"price":"￥5400"
+			
+		},
+		{
+			"src":"l2.jpg",
+			"id":"shop10",
+			"jianjie1":"200元/瓶 24瓶包邮装",
+			"jianjie2":"资生堂安热沙ANESSA安耐晒 小金瓶防晒霜防水2018新版",
+			"price":"￥5400"
+			
+		},
+		{
+			"src":"l4.jpg",
+			"id":"shop11",
+			"jianjie1":"爆款明星熬夜霜 专柜260元",
+			"jianjie2":"Guerlain 娇兰 保湿滋润熬夜霜/深夜焕肤乳",
+			"price":"￥255"
+			
+		},
+		{
+			"src":"l1.jpg",
+			"id":"shop12",
+			"jianjie1":"明星单品 帝皇原蜜 专柜1120元",
+			"jianjie2":"Guerlain 娇兰 新黄金帝皇蜂姿复原蜜",
+			"price":"￥1099"
+			
+		}
+		]
+	}
+}
